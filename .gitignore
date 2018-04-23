@@ -1,15 +1,22 @@
-{
-  "name": "AgilePoker",
-  "short_name": "AgilePoker",
-  "theme_color": "#2a0044",
-  "background_color": "#2a0044",
-  "display": "standalone",
-  "start_url": "/",
-  "icons": [
-    {
-      "src": "images/icon-72x72.png",
-      "sizes": "72x72",
-      "type": "image/png"
-    }
-  ]
-}
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
